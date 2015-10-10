@@ -11,4 +11,4 @@
         NSLog(@"the button tag is %ld",btnTag);
     }
 ## 见截图
-![image](https://github.com/YourAcountName/ProjectName/blob/master/GIFName.gif )
+![image](https://github.com/LeeYouth/LYShareView/blob/master/LYShareViewDemo/LYShareViewDemo/Resource/shareview.gif)
