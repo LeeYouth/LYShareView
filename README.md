@@ -1,4 +1,4 @@
-# shareView
+# LYShareView
     弹出效果的分享动画
 
 ## 需要显示分享视图的地方添加
